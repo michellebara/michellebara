@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @michellebara
+- 👀 I’m interested in all things data science and data analysis
+- 🌱 I’m currently learning python focusing on data management and data science libraries
